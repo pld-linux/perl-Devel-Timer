@@ -10,7 +10,7 @@ Summary(pl):	Devel::Timer - ¶ledzenie i raportowanie czasu wykonywania fragmentó
 Name:		perl-Devel-Timer
 Version:	0.01
 Release:	1
-License:	GPL
+License:	GPL v2
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	ee17c11e294393d16e07acf5d2a6f04b
