@@ -3,8 +3,8 @@
 %bcond_without	tests	# do perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Devel
-%define	pnam	Timer
+%define		pdir	Devel
+%define		pnam	Timer
 Summary:	Devel::Timer - track and report execution time for parts of code
 Summary(pl):	Devel::Timer - ¶ledzenie i raportowanie czasu wykonywania fragmentów kodu
 Name:		perl-Devel-Timer
