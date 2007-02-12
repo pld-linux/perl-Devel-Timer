@@ -6,7 +6,7 @@
 %define		pdir	Devel
 %define		pnam	Timer
 Summary:	Devel::Timer - track and report execution time for parts of code
-Summary(pl):	Devel::Timer - ¶ledzenie i raportowanie czasu wykonywania fragmentów kodu
+Summary(pl.UTF-8):   Devel::Timer - Å›ledzenie i raportowanie czasu wykonywania fragmentÃ³w kodu
 Name:		perl-Devel-Timer
 Version:	0.01
 Release:	2
@@ -24,10 +24,10 @@ Devel::Timer allows developers to accurately time how long a specific
 piece of code takes to execute. This can be helpful in locating the
 slowest parts of an existing application.
 
-%description -l pl
-Devel::Timer pozwala programi¶cie dok³adnie zmierzyæ, jak d³ugo
-wykonuj± siê dane fragmenty kodu. Mo¿e to byæ pomocne przy znajdywaniu
-najwolniejszych czê¶ci istniej±cej aplikacji.
+%description -l pl.UTF-8
+Devel::Timer pozwala programiÅ›cie dokÅ‚adnie zmierzyÄ‡, jak dÅ‚ugo
+wykonujÄ… siÄ™ dane fragmenty kodu. MoÅ¼e to byÄ‡ pomocne przy znajdywaniu
+najwolniejszych czÄ™Å›ci istniejÄ…cej aplikacji.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
