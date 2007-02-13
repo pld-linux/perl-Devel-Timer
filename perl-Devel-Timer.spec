@@ -6,7 +6,7 @@
 %define		pdir	Devel
 %define		pnam	Timer
 Summary:	Devel::Timer - track and report execution time for parts of code
-Summary(pl.UTF-8):   Devel::Timer - śledzenie i raportowanie czasu wykonywania fragmentów kodu
+Summary(pl.UTF-8):	Devel::Timer - śledzenie i raportowanie czasu wykonywania fragmentów kodu
 Name:		perl-Devel-Timer
 Version:	0.01
 Release:	2
