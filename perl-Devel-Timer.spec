@@ -8,12 +8,12 @@
 Summary:	Devel::Timer - track and report execution time for parts of code
 Summary(pl.UTF-8):	Devel::Timer - śledzenie i raportowanie czasu wykonywania fragmentów kodu
 Name:		perl-Devel-Timer
-Version:	0.03
+Version:	0.04
 Release:	1
 License:	GPL v2
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Devel/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	15992fc92c9e8d8d592e954e7dfcb726
+# Source0-md5:	1bbe144b392c7cb5ec758500dcb62c57
 URL:		http://search.cpan.org/dist/Devel-Timer/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
